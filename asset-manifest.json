@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reduxrandomusers/static/css/main.34de6062.chunk.css",
+    "main.js": "/reduxrandomusers/static/js/main.3921715d.chunk.js",
+    "main.js.map": "/reduxrandomusers/static/js/main.3921715d.chunk.js.map",
+    "runtime-main.js": "/reduxrandomusers/static/js/runtime-main.91de9b5d.js",
+    "runtime-main.js.map": "/reduxrandomusers/static/js/runtime-main.91de9b5d.js.map",
+    "static/js/2.3354078c.chunk.js": "/reduxrandomusers/static/js/2.3354078c.chunk.js",
+    "static/js/2.3354078c.chunk.js.map": "/reduxrandomusers/static/js/2.3354078c.chunk.js.map",
+    "index.html": "/reduxrandomusers/index.html",
+    "precache-manifest.5013a7237aebceb9e814dcbbc8609071.js": "/reduxrandomusers/precache-manifest.5013a7237aebceb9e814dcbbc8609071.js",
+    "service-worker.js": "/reduxrandomusers/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/reduxrandomusers/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91de9b5d.js",
+    "static/js/2.3354078c.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.3921715d.chunk.js"
+  ]
+}
